@@ -1,2 +1,1 @@
-this is file-commit-1
-
+this is a hotfix
